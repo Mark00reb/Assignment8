@@ -1,0 +1,5 @@
+1) 
+
+2) You would need a website instead of an app in something like live sports scores as the information would have to be constantly updated with the latest scores.
+
+3) You would need a mobile application and not a website for scenarios that require offline use, and example would be Apple Music as users would want to downlaod the songs and not have to stream them when theyre not in wifi.
